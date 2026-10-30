@@ -13,9 +13,8 @@ The individual behind this breach is **Ethan Cole** (Former Security / System Le
 To help you recover the infrastructure and track him down, I have backed up critical evidence into the secure repository below. 
 
 **Target Name:** Ethan Cole
+**Latitude:** -20.44910144929076
 
-#### 📂 Evidence Package Link:
-👉 [Download Google Drive Evidence Bundle Here]
 
 ---
 *Note to the Team: I trust you guys. Restore the network, trace the coordinates, and bring things back to normal. Don't let him get away.*
