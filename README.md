@@ -14,6 +14,8 @@ To help you recover the infrastructure and track him down, I have backed up crit
 
 **Target Name:** Ethan Cole
 
+**Username:** ethancolehere
+
 **Latitude:** -20.44910144929076
 
 
